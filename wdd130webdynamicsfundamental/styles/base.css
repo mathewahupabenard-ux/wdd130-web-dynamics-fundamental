@@ -109,7 +109,6 @@ footer{
     color: #000;
     text-align: center;
     padding: 1.5rem;
-    margin-top: 3rem;
-    display: block;
-    unicode-bidi: isolate;
+    margin-top: 1rem;
+
 }
